@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ocean-android-glide-retrofit</string>
+    <string name="ivAvatarDescription">Avatar</string>
 </resources>
